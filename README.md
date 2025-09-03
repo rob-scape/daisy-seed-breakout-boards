@@ -76,18 +76,18 @@ These breakout boards helped me tremendously while developing DSP audio on the D
 
 The daisy seed breakout boards are an open source project. The schematics and PCB designs are licenced as CC BY-NC-SA 4.0.
 
-For the daisy seed power management and op amps i refered to:
-kxmx [blümchen](https://kxmx-bluemchen.recursinging.com/)
+For the daisy seed power management and op amps i refered to:\
+kxmx [blümchen](https://kxmx-bluemchen.recursinging.com/)\
 daisy patch by [electrosmith](https://daisy.nyc3.cdn.digitaloceanspaces.com/products/patch/ES_Daisy_Patch_Rev8.pdf)
 
-For input protection:
-kxmx [blümchen](https://kxmx-bluemchen.recursinging.com/)
+For input protection:\
+kxmx [blümchen](https://kxmx-bluemchen.recursinging.com/)\
 Mutable instruments [clouds](https://pichenettes.github.io/mutable-instruments-documentation/modules/clouds/downloads/clouds_v30.pdf) 
 
-For multiplexing:
+For multiplexing:\
 Takumi Ogata electrosmith [tutorial](https://forum.electro-smith.com/t/cd4051-multiplexer-tutorial-is-here/3481)
 
-Code examples: MIT license
+Code examples: MIT license\
 Hardware: CC BY-NC-SA 4.0
 
 [Microsite](https://www.robertheel.com/++/daisy-seed-breakout-boards/) with relevant links.
