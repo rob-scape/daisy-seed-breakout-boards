@@ -74,7 +74,8 @@ These breakout boards helped me tremendously while developing DSP audio on the D
 
 # Open source
 
-The daisy seed breakout boards are an open source project. The schematics and PCB designs are licenced as CC BY-NC-SA 4.0.
+The daisy seed breakout boards are an open source project.\
+The schematics and PCB designs are licenced as CC BY-NC-SA 4.0.
 
 For the daisy seed power management and op amps i refered to:\
 kxmx [blümchen](https://kxmx-bluemchen.recursinging.com/)\
