@@ -1,4 +1,4 @@
-# **Daisy Seed Breakout PCBS**
+# **Daisy Seed Breakout PCBs**
 
 Handy Breakout PCBs for the electrosmith Daisy Seed that can be very helpful for prototyping,\
 especially when working with eurorack signals.
@@ -7,6 +7,8 @@ especially when working with eurorack signals.
   [Easy EDA project](https://oshwlab.com/scape_rob/seed_power_opamps)
 - Eight channel input protection and multiplexer board 
   [Easy EDA project](https://oshwlab.com/scape_rob/kxmx_bluemchen_copy)
+
+[Microsite](https://www.robertheel.com/++/daisy-seed-breakout-boards/) with relevant links.
  
  
  ![daisy_seed_breakouts](https://www.robertheel.com/++/wp-content/uploads/2025/09/seed_dcdc_and_muxes.jpg) 
