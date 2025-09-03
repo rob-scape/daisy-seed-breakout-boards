@@ -14,12 +14,12 @@ especially when working with eurorack signals.
   
  # DC DC converter and input output opamps board
 DC DC converter from +/- 12 Volts eurorack power to +5 Volts.\
-Opamps for audio in and audio out, eurorack level.\
+Opamps for audio in and audio out, eurorack level.
 
  ![daisy_seed_breakouts](https://www.robertheel.com/++/wp-content/uploads/2025/08/seed_dcdc_01.jpg) 
 
 When using long headers it can be plugged into a breadboard for fast prototyping\
-while using the clean power and the op amps.\
+while using the clean power and the op amps.
 
  ![daisy_seed_breakouts](https://www.robertheel.com/++/wp-content/uploads/2025/09/seed_breadboard_01.jpg) 
 
